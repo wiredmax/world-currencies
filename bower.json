@@ -1,0 +1,22 @@
+{
+  "name": "currency",
+  "version": "0.0.1",
+  "homepage": "https://github.com/wiredmax/currency",
+  "authors": [
+    "Maxime Poulin <mpoulin@roux.ca>"
+  ],
+  "description": "Currency information in JSON",
+  "keywords": [
+    "currency",
+    "iso4217",
+    "json"
+  ],
+  "license": "ODBL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
