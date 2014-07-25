@@ -2,6 +2,9 @@ module.exports = function(grunt) {
 
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
+    clean: {
+      dist: ["dist/*"]
+    },
     json5_to_json: {
       options: {
         replacer: null,
@@ -30,10 +33,11 @@ module.exports = function(grunt) {
     }
   });
 
+  grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-json5-to-json');
   grunt.loadNpmTasks('grunt-merge-json');
   grunt.loadNpmTasks('grunt-contrib-rename');
 
-  grunt.registerTask('default', ["json5_to_json","merge-json:currencies","rename"]);
+  grunt.registerTask('default', ["clean","json5_to_json","merge-json:currencies","rename"]);
 
 };
