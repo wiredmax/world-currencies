@@ -4,7 +4,7 @@ This repository contains currency information for currencies contained in ISO421
 
 ##Example
 
-´´´json
+```json
 {
     "CAD": {
         "name": "Canadian Dollar",
@@ -53,7 +53,7 @@ This repository contains currency information for currencies contained in ISO421
         }
     }
 }
-´´´
+```
 
 ## How to contribute?
 You can simply submit a pull request and I'll gladly review them and merge them if the changes are acceptable.
