@@ -1,0 +1,178 @@
+{
+	"CAD": {
+		"name": "Canadian Dollar",
+		"iso": {
+			"code": "CAD",
+			"number": "124"
+		},
+		"units": {
+			"major": {
+				"name": "dollar",
+				"symbol": "$"
+			},
+			"minor": {
+				"name": "cent",
+				"symbol": "¢",
+				"majorValue": 0.01
+			}
+		},
+		"banknotes": {
+			"frequent": [
+				"5$",
+				"10$",
+				"20$",
+				"50$",
+				"100$"
+			],
+			"rare": [
+				"1$",
+				"2$",
+				"500$",
+				"1000$"
+			]
+		},
+		"coins": {
+			"frequent": [
+				"1$",
+				"2$",
+				"5¢",
+				"10¢",
+				"25¢"
+			],
+			"rare": [
+				"1¢",
+				"50¢"
+			]
+		}
+	},
+	"EUR": {
+		"name": "Euro",
+		"iso": {
+			"code": "EUR",
+			"number": "978"
+		},
+		"units": {
+			"major": {
+				"name": "euro",
+				"symbol": "€"
+			},
+			"minor": {
+				"name": "cent",
+				"symbol": "c",
+				"majorValue": 0.01
+			}
+		},
+		"banknotes": {
+			"frequent": [
+				"€5",
+				"€10",
+				"€20",
+				"€50",
+				"€100"
+			],
+			"rare": [
+				"€200",
+				"€500"
+			]
+		},
+		"coins": {
+			"frequent": [
+				"€1",
+				"€2",
+				"5c",
+				"10c",
+				"20c",
+				"50c"
+			],
+			"rare": [
+				"1c",
+				"2c"
+			]
+		}
+	},
+	"GBP": {
+		"name": "British Pound",
+		"iso": {
+			"code": "GBP",
+			"number": "826"
+		},
+		"units": {
+			"major": {
+				"name": "pound",
+				"symbol": "£"
+			},
+			"minor": {
+				"name": "penny",
+				"symbol": "p",
+				"majorValue": 0.01
+			}
+		},
+		"banknotes": {
+			"frequent": [
+				"£5",
+				"£10",
+				"£20",
+				"£50"
+			],
+			"rare": [
+				"£100"
+			]
+		},
+		"coins": {
+			"frequent": [
+				"£1",
+				"£2",
+				"1p",
+				"2p",
+				"5p",
+				"10p",
+				"20p",
+				"50p"
+			],
+			"rare": []
+		}
+	},
+	"USD": {
+		"name": "US Dollar",
+		"iso": {
+			"code": "USD",
+			"number": "840"
+		},
+		"units": {
+			"major": {
+				"name": "dollar",
+				"symbol": "$"
+			},
+			"minor": {
+				"name": "cent",
+				"symbol": "¢",
+				"majorValue": 0.01
+			}
+		},
+		"banknotes": {
+			"frequent": [
+				"$1",
+				"$5",
+				"$10",
+				"$20",
+				"$50",
+				"$100"
+			],
+			"rare": [
+				"2$"
+			]
+		},
+		"coins": {
+			"frequent": [
+				"1¢",
+				"5¢",
+				"10¢",
+				"25¢"
+			],
+			"rare": [
+				"$1",
+				"50¢"
+			]
+		}
+	}
+}
