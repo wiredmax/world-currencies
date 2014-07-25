@@ -1,5 +1,4 @@
 #Currency information in JSON.
-## Countries data
 This repository contains currency information for currencies contained in ISO4217 in JSON format.
 
 ##Example
