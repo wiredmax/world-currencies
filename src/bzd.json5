@@ -1,44 +1,45 @@
 {
-    "USD": {
-        "name": "US Dollar",
+    "BZD": {
+        "name": "Belize dollar",
         "iso": {
-            "code": "USD",
-            "number": "840"
+            "code": "BZD",
+            "number": "084"
         },
         "units": {
             "major": {
                 "name": "dollar",
-                "symbol": "$"
+                "symbol": "BZ$"
             },
             "minor": {
                 "name": "cent",
-                "symbol": "¢",
+                "symbol": "",
                 "majorValue": 0.01
             }
         },
         "banknotes": {
             "frequent": [
-                "$1",
-                "$5",
-                "$10",
-                "$20",
-                "$50",
-                "$100"
+                "BZ$2",
+                "BZ$5",
+                "BZ$10",
+                "BZ$20",
+                "BZ$50",
+                "BZ$100"
             ],
             "rare": [
-                "2$"
+                ""
             ]
         },
         "coins": {
             "frequent": [
-                "1¢",
-                "5¢",
-                "10¢",
-                "25¢"
+                "1 cents",
+                "5 cents",
+                "10 cents",
+                "25 cents",
+                "50 cents",
+                "BZ$1",
+                "BZ$2"
             ],
             "rare": [
-                "$1",
-                "50¢"
             ]
         }
     }
