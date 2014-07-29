@@ -1,0 +1,44 @@
+{
+    "BYR": {
+        "name": "Belarusian ruble",
+        "iso": BYR            "code": "USD",
+            "number": "974"
+        },
+        "units": {
+            "major": {
+                "name": "ruble",
+                "symbol": "p"
+            },
+            "minor": {
+                "name": "kapeyka",
+                "symbol": "",
+                "majorValue": 0.01
+            }
+        },
+        "banknotes": {
+            "frequent": [
+                "p.1",
+                "p.5",
+                "p.10",
+                "p.20",
+                "p.50",
+                "p.100",
+                "p.500",
+                "p.1000",
+                "p.5000",
+                "p.1000",
+                "p.20000",
+                "p.50000",
+                "p.100000",
+            ],
+            "rare": [
+            ]
+        },
+        "coins": {
+            "frequent": [
+            ],
+            "rare": [
+            ]
+        }
+    }
+}
