@@ -1,7 +1,8 @@
 {
     "BYR": {
         "name": "Belarusian ruble",
-        "iso": BYR            "code": "USD",
+        "iso": {
+            "code": "BYR",
             "number": "974"
         },
         "units": {
