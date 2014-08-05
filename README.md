@@ -1,5 +1,5 @@
 #Currency information in JSON.
-This repository contains currency information for currencies contained in ISO4217 in JSON format.
+This repository contains currency information for currencies contained in ISO 4217 in JSON format.
 
 ##Example
 
@@ -62,11 +62,11 @@ You can simply submit a pull request and I'll gladly review them and merge them 
 
 
 ## To do
- - All the currency in ISO 4217 with their respective information and details.
- - i18n of currency names and units
- - More formats such as XML, YAML and CSV.
- - Countries using currency.
- - Central bank accociated to the currency and it's related information like the location and website, etc.
+ - [X] All the currency in ISO 4217 with their respective information and details.
+ - [ ] i18n of currency names and units
+ - [ ] More formats such as XML, YAML and CSV.
+ - [ ] Countries using currency.
+ - [ ] Central bank accociated to the currency and it's related information like the location and website, etc.
 
 ## Sources
 http://www.currency-iso.org
