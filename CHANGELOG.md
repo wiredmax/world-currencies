@@ -1,5 +1,9 @@
 # Versions
 
+## v0.0.4 - (2014/08/12)
+
+* Bumped version to fix republish on NPM.
+
 ## v0.0.3 - (2014/08/12)
 
 * Renamed project from `currency` to `world-currencies`.
