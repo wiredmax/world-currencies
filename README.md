@@ -60,6 +60,9 @@ You can simply submit a pull request and I'll gladly review them and merge them 
  - Make sure to rebuild the distribution version by executing grunt before submiting a pull request.
  - Only static data (no exchange rate data or inflation value)
 
+## Change log
+See the [change log](https://github.com/wiredmax/currency/blob/master/CHANGELOT.md).
+
 
 ## To do
  - [X] All the currency in ISO 4217 with their respective information and details.

@@ -1,10 +1,10 @@
 {
-  "name": "currency",
-  "version": "0.0.2",
+  "name": "world-currencies",
+  "version": "0.0.3",
   "description": "Currency information in JSON",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wiredmax/currency"
+    "url": "https://github.com/wiredmax/world-currencies"
   },
   "author": "Maxime Poulin <mpoulin@roux.ca>",
   "license": "ODBL",
