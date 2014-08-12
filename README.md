@@ -61,7 +61,7 @@ You can simply submit a pull request and I'll gladly review them and merge them 
  - Only static data (no exchange rate data or inflation value)
 
 ## Change log
-See the [change log](https://github.com/wiredmax/currency/blob/master/CHANGELOT.md).
+See the [change log](https://github.com/wiredmax/currency/blob/master/CHANGELOG.md).
 
 
 ## To do
