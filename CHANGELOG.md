@@ -1,5 +1,9 @@
 # Versions
 
+## v0.0.5 - (2014/08/20)
+
+* Added missing major symbol for Indian Ruppies (INR).
+
 ## v0.0.4 - (2014/08/12)
 
 * Bumped version to fix republish on NPM.
