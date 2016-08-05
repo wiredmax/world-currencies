@@ -1,6 +1,6 @@
 {
   "name": "world-currencies",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Currency information in JSON",
   "repository": {
     "type": "git",
