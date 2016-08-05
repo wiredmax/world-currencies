@@ -1,6 +1,6 @@
 {
     "RUB": {
-        "name": "Rouble russe",
+        "name": "Russian Rouble",
         "iso": {
             "code": "RUB",
             "number": "643"
@@ -8,7 +8,7 @@
         "units": {
             "major": {
                 "name": "rouble",
-                "symbol": ""
+                "symbol": "₽"
             },
             "minor": {
                 "name": "kopeyka",
@@ -31,16 +31,16 @@
         },
         "coins": {
             "frequent": [
-                "k10",
-                "k50",
                 "1",
                 "2",
-                "5"
+                "5",
+                "10"
             ],
             "rare": [
                 "k1",
                 "k5",
-                "10"
+                "k10",
+                "k50"
             ]
         }
     }
