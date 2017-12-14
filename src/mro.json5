@@ -13,7 +13,9 @@
             "minor": {
                 "name": "khoums",
                 "symbol": "",
-                "majorValue": 0.01
+                // 1 khoums = 1/5 Ouguiya
+                // https://en.wikipedia.org/wiki/Mauritanian_ouguiya
+                "majorValue": 0.2
             }
         },
         "banknotes": {
