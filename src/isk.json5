@@ -10,6 +10,8 @@
                 "name": "krona",
                 "symbol": "kr"
             },
+            // as of 2003 the minor unit eyrir was dismissed by the central bank of Iceland
+            // https://www.cb.is/publications/news/news/2003/08/15/Withdrawal-of-coin-denominated-in-aurar/
             "minor": {
                 "name": "eyrir",
                 "symbol": "",
