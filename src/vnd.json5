@@ -10,10 +10,20 @@
                 "name": "dong",
                 "symbol": "₫"
             },
+            // Offically, dong has two minor values, just like CNY
+            // 1 dong = 10 hao
+            // 1 dong = 100 xu
+            // Both are not being accepted in retail since 2004
+            // If at all, use xu instead of hao as the preferred minor value
             "minor": {
-                "name": "Hào",
+                "name": "xu",
                 "symbol": "",
                 "majorValue": 0.01
+            }
+            "minor2": {
+                "name": "Hào",
+                "symbol": "",
+                "majorValue": 0.1
             }
         },
         "banknotes": {
