@@ -1,5 +1,14 @@
 # Versions
 
+## v0.0.7 - (2018/03/19)
+
+* Fixed typos.
+* The chinese renmimbi (yuan) has two minor values.
+* As of 2003 the minor unit eyrir was dismissed by the central bank of Iceland. Removed minor.
+* There are two minor unit for vietnamese dong.
+* Fix: 1 khoums = 1/5 Mauritanian ouguiya
+
+
 ## v0.0.6 - (2016/08/16)
 
 * Updated Russian and Belorussian roubles.
