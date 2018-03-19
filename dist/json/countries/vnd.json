@@ -11,9 +11,14 @@
                 "symbol": "₫"
             },
             "minor": {
-                "name": "Hào",
+                "name": "xu",
                 "symbol": "",
                 "majorValue": 0.01
+            },
+            "minor2": {
+                "name": "Hào",
+                "symbol": "",
+                "majorValue": 0.1
             }
         },
         "banknotes": {

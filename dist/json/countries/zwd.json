@@ -7,7 +7,7 @@
         },
         "units": {
             "major": {
-                "name": "dolalr",
+                "name": "dollar",
                 "symbol": "Z$"
             },
             "minor": {

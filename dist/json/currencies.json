@@ -410,7 +410,7 @@
 		},
 		"units": {
 			"major": {
-				"name": "covertible marks",
+				"name": "convertible marks",
 				"symbol": "KM"
 			},
 			"minor": {
@@ -1162,6 +1162,11 @@
 				"symbol": "¥"
 			},
 			"minor": {
+				"name": "fēn",
+				"symbol": "分",
+				"majorValue": 0.01
+			},
+			"minor2": {
 				"name": "jiǎo",
 				"symbol": "角",
 				"majorValue": 0.1
@@ -1177,6 +1182,9 @@
 				"¥100"
 			],
 			"rare": [
+				"分1",
+				"分2",
+				"分5",
 				"角1",
 				"角2",
 				"角5",
@@ -1185,6 +1193,9 @@
 		},
 		"coins": {
 			"frequent": [
+				"分1",
+				"分2",
+				"分5",
 				"角1",
 				"角5",
 				"¥1"
@@ -5903,9 +5914,14 @@
 				"symbol": "₫"
 			},
 			"minor": {
-				"name": "Hào",
+				"name": "xu",
 				"symbol": "",
 				"majorValue": 0.01
+			},
+			"minor2": {
+				"name": "Hào",
+				"symbol": "",
+				"majorValue": 0.1
 			}
 		},
 		"banknotes": {
@@ -6262,7 +6278,7 @@
 		},
 		"units": {
 			"major": {
-				"name": "dolalr",
+				"name": "dollar",
 				"symbol": "Z$"
 			},
 			"minor": {
