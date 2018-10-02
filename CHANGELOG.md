@@ -1,5 +1,10 @@
 # Versions
 
+## v0.0.9 - (2018/10/02)
+
+* Added the turkish lira symbol.
+
+
 ## v0.0.8 - (2018/03/19)
 
 * Bumped version to fix republish on NPM.

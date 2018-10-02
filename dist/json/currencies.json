@@ -3749,7 +3749,7 @@
 			"minor": {
 				"name": "khoums",
 				"symbol": "",
-				"majorValue": 0.01
+				"majorValue": 0.2
 			}
 		},
 		"banknotes": {
@@ -5508,7 +5508,7 @@
 		"units": {
 			"major": {
 				"name": "lira",
-				"symbol": ""
+				"symbol": "₺"
 			},
 			"minor": {
 				"name": "kuruş",
