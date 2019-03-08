@@ -1,5 +1,10 @@
 # Versions
 
+## v0.0.10 - (2019/03/08)
+
+* BYR is BYN since 2015.
+
+
 ## v0.0.9 - (2018/10/02)
 
 * Added the turkish lira symbol.
