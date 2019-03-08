@@ -938,11 +938,11 @@
 			"rare": []
 		}
 	},
-	"BYR": {
+	"BYN": {
 		"name": "Belarusian ruble",
 		"iso": {
-			"code": "BYR",
-			"number": "974"
+			"code": "BYN",
+			"number": "933"
 		},
 		"units": {
 			"major": {
