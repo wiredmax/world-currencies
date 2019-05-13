@@ -1,5 +1,11 @@
 # Versions
 
+## v0.0.11 - (2019/05/13)
+
+* Added full text of the Open Database License (ODbL).
+* Update of the MKD currency.
+
+
 ## v0.0.10 - (2019/03/08)
 
 * BYR is BYN since 2015.
