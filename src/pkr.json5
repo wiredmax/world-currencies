@@ -19,6 +19,7 @@
         "banknotes": {
             "frequent": [
                 "RS10",
+                "RS20",
                 "Rs50",
                 "Rs100",
                 "Rs500",
@@ -31,7 +32,8 @@
             "frequent": [
                 "Rs1",
                 "Rs2",
-                "Rs5"
+                "Rs5",
+                "Rs10"
             ],
             "rare": [
             ]
